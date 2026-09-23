@@ -42,3 +42,7 @@ Instagram: @cafe.undo
 
 ## DEPLOYMENT
 No npm/build step is required. Upload the contents to GitHub and connect the repository to Vercel.
+
+
+## CURRENT MENU IMAGES
+Polished editorial-style food images are included so the menu is visually complete. Replace files in `assets/products/` with your actual UNDO product photos later; filenames are already wired into the site.
