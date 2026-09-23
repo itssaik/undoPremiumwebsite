@@ -1,44 +1,44 @@
-# UNDO Premium Website
+# UNDO — Apple-style animated website
 
-## EDITING PHOTOS — EASY
+## Design direction
+This version is based on the premium reference image supplied in the conversation:
+- cinematic full-screen hero
+- transparent UNDO logo
+- Apple-style scroll storytelling
+- parallax image movement
+- sticky/immersive sections
+- premium navigation
+- category cards
+- full menu
+- mobile-first responsive layout
+- animated order section
 
-All product photos are in:
+## IMPORTANT: EASY IMAGE EDITING
+
+All editable product photos are inside:
 
 assets/products/
 
-Replace a photo with another JPG/PNG and keep the same filename.
+Replace a file with your real product image while keeping the same filename.
 
-Example:
+Examples:
 assets/products/brownie-drench.jpg
+assets/products/rose-royale.jpg
+assets/products/korean-cheese-bun.jpg
 
-Replace that file with your new Brownie Drench photo. The website will use it automatically.
+The website will automatically use the replacement.
 
-## EDITING PRODUCTS
-
-Open:
+Product names, sizes, prices and image filenames are in:
 
 products.js
 
-You can change:
-- product name
-- size
-- price
-- image filename
-
-The full menu is also in products.js.
-
 ## LOGO
 
-The exact logo supplied for this website is:
-
-assets/undo-logo.png
+assets/undo-logo-transparent.png is the UNDO logo with the white rectangular background removed.
 
 ## CONTACT
-
 WhatsApp: +91 74484 34744
 Instagram: @cafe.undo
 
 ## DEPLOYMENT
-
-This is a plain HTML/CSS/JS site. No npm install or build step is required.
-Upload the contents to GitHub and Vercel can deploy it directly.
+No npm/build step is required. Upload the contents to GitHub and connect the repository to Vercel.
